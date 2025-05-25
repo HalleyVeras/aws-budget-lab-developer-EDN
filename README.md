@@ -1,5 +1,6 @@
 # 📊 Laboratório – Criando um Orçamento na AWS com Budget
 
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/Banner_Budget.jpg)
 
 **Curso: Developer – Escola da Nuvem**  
 **Autor: Halley Veras**
@@ -31,7 +32,10 @@ Você é um estudante ou desenvolvedor iniciante que está utilizando a AWS para
 - Clique em **Criar orçamento**.
 
 📸 **Print 1 – Acessando o AWS Budgets e iniciando a criação de orçamento**  
-_Aqui você pode inserir um print da tela inicial do AWS Budgets, com o botão “Criar orçamento” destacado._
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-58.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-14.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-21.png)
 
 ---
 
@@ -42,23 +46,31 @@ _Aqui você pode inserir um print da tela inicial do AWS Budgets, com o botão �
 - Clique em **Criar orçamento**.
 
 📸 **Print 2 – Tela de criação de orçamento com nome e e-mail preenchidos**  
-_Adicione aqui um print dessa tela com os campos destacados._
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-29.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-31.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-32.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-34.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-36.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-36_1.png)
+
 
 ---
 
 ### 🔍 Passo 3 – Editar e Configurar Alertas
 
-- Na lista de orçamentos, clique no nome do seu budget.
-- Clique no botão **Editar** (canto superior direito).
-- Role até a seção **Alerta #1**:
-  - Defina o **Limite** como **10** e escolha **% do valor orçado**.
-  - No campo **Acionador**, mantenha a opção **Real**.
+- Defina o **Limite** como **10** e escolha **% do valor orçado**.
+- No campo **Acionador**, mantenha a opção **Real**.
 - Clique em **Próximo**.
 - Na tela **Associar ações**, mantenha as opções padrão e clique em **Próximo**.
 - Revise as configurações e clique em **Salvar**.
 
 📸 **Print 3 – Configuração do alerta e revisão do orçamento**  
-_Aqui vai um print das configurações de alerta preenchidas e da tela de revisão._
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-43.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-45.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-46.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-46_1.png)
 
 ---
 
@@ -71,7 +83,11 @@ _Aqui vai um print das configurações de alerta preenchidas e da tela de revis�
   - Valor usado
 
 📸 **Print 4 – Resumo final do orçamento**  
-_Adicione o print com o orçamento criado, nome, valor e percentual de uso._
+
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_15-47.png)
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-budget-lab-developer-EDN/refs/heads/main/arquivos1/2025-05-25_16-10.png)
 
 ---
 
